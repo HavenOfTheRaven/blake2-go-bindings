@@ -9,7 +9,7 @@ package main
 
 import(
 	"fmt"
-	"github.com/Tracy-Tzu/blake2-go-bindings/blake2b"
+	"github.com/HavenOfTheRaven/blake2-go-bindings/blake2b"
 )
 
 func main(){

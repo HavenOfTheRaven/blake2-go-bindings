@@ -1,4 +1,4 @@
-/*Copyright (c) 2023 Tracy-Tzu under the MIT license
+/*Copyright (c) 2025 Haven F.C. Johnson under the MIT license
 test file for the go bindings for the blake2b algorithm
 */
 package blake2b
